@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "20256702",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "c81d1c06212c1c9624f44e159c651a5c",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -40,12 +40,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "ANGLE",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5846541835",
         "required": true
       },
       "STRING_SESSION": {
@@ -93,7 +93,7 @@
       "formation": {
           "worker": {
               "quantity": 1,
-              "size": "free"
+              "size": "eco"
           }
       }
   }
